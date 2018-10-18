@@ -1,2 +1,3 @@
-# DAOState
-Decentralized state management for DAOs using the epochal time model and immutable state on IPFS
+# Chorus
+
+Decentralized state management for Ethereum contracts using the epochal time model and IPFS
