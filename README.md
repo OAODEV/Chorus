@@ -1,3 +1,3 @@
 # Chorus
 
-Decentralized state management for Ethereum contracts using the epochal time model and IPFS
+Decentralized state management for DApps with Ethereum and IPFS
