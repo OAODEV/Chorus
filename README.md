@@ -1,3 +1,3 @@
 # Chorus
 
-Decentralized state management with Ethereum and IPFS
+Decentralized state management for DApps with Ethereum and IPFS
